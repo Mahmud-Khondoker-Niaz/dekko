@@ -21,7 +21,7 @@ cd dekko
 2. Build and start the Docker containers:
 
 ```bash
-docker-compose up -d --build
+docker -compose up -d --build
 ```
 
 3. Enter the `app` container and start Laravel development server:
