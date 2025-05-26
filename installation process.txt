@@ -1,0 +1,6 @@
+1. Install laravel 6
+2. As composer php 7.4 so xampp will have to be installed 7.4
+3. If xampp install 7.2 then from terminal this command will have to run " composer install --ignore-platform-reqs "
+4. Import update databse
+5. Rename the databse from env file
+6. Make sure that composer PHP and Xamp PHP will have to be similar
