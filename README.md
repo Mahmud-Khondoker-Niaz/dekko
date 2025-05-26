@@ -82,3 +82,7 @@ Copy and paste this as your `README.md` content — all set!
 
 If you want, I can also generate it as a file for you. Just say the word.
 ```
+
+## Admin Pannel Login Credentials:
+User ID: niaz.mahmud.dfl@dekkolegacy.com
+Password: 123456
